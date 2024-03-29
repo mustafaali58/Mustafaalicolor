@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    height:800px;
+    display:grid;
+    background-color: rgb(0, 0, 0);
+    place-items:center;
+}
+button{
+    border-radius: 14px;
+    font-size:30px;
+    letter-spacing: 1.6px;
+    background-color: transparent;
+    border:5px solid ;
+    cursor:pointer;
+    outline:none;
+    color:white;
+    padding:14px;
+}  
